@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anjanibooks-reactjs-storage",
+  "private_key_id": "3ef34d8f61d48c4a89480f6552f9cf1bfd74bb25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/RenhtrelbSU8\nz27mAutKyLiLqbYhTan39OvVeXWPMmQ4MZaTY/zGM5m9x/6qthGpKGNzK7qZHNUR\nvRI/6Urgd6YdDwjXOS3guxFnD9MsuEQu39q6ZCYonqt1dEXEtyiQyTbUIRqt2+jo\nYaRIKbeEQGZwcNPHYsOTYWeguVL7TNhXNdpCmaCo90HZayZTBp2EYhqsB7LShnN5\n2cfHvRqSFQesS6sbdK6CzqgO1/EeBNqu0e5E0UV4I4oAS9++etpRwu2BeG82fxzW\nuCUK39rkN5+rS5N2YYt4pAFBkwoc5EUVIMNc/yGlABWHcSCjCg7ejMvVNBtGu2a+\nRRSO0zGZAgMBAAECggEAFp1JAD9Oqjfj2bM6zOYWdKKTsyuPFZPtnxvtkDFKlXIj\nSEOQpn+BYNuz9yzAruVU5DeavoCykKzIgk7k6/qEuFJdKP1gkbW4d2QWtCU6VgS5\nRwN/hF8X5eCQrBPhtdbj7G5l1aHOWjTwbh0xQ7ju8it9ERk96MqEDhZLnsSai4x/\neCqgO1LEQFHnibVNowauu1aBP9hnvoPKbBT5ZsRHYOQRO0eSs6s+OktJ72KYdsUl\nqpE++psGG8rkhqFf4O8GXPWBvdfvqcUrBNmy/sf2+kBmEekrSQ3gxtIGvznvIUCo\nOkl4PaVLazAPGUfCpPNEYF/+3+3eg0JpLuNwpQ+bwwKBgQDpFLv8FvqfBKDJ+etb\n//6TNJU7yBbsFz90fofvFJHAdwpKWwLRwpowdm7PMHuSOrSKvNUSs4eYAc09lDaJ\nvPCGCF+NEJEzyrEVPzXeJJAMcamtNPMdYHqe2ErfOZlVSTDtacXJDbdMoI4mOtMH\nh1/kWn4kqrq4ehVtxtJP5a9fcwKBgQDSFMOQXbUwfOanVFAFhMsodXTejGZGemef\nr5k6H3bOtb9Kra8BUNwl0UBN3oZmm15OZuGh3tRVb9QVKg8TKJybOKAYWwrUvyZ/\nY645NK5FnFo7IxjF1V9F8JbMH0+tfHgSX2SbjQ/L4fyJ+ZzUHcxzDCoIpiE5ZdFr\nlZVw8NNPwwKBgQDMYGv9vkCAU1SSBl0ETNJzTbZVtzuyRShVA+Y6E7VCKJ+TV35/\nY75EJHVBo+eW73cD+FR1k4qgFWRcTKwN1uio/oqabR6FZYQld0nKwhC1eK0pvbY3\n2jNrOYldd2omSIlohEjz5N0HiflbOFV20pOY7miRykr0G8jSe3ZKrMI8VQKBgGBF\nla1F1C+pPUY3NAijZzpeQTVvX7syguRB41UocBigX05Is6dFt+04rGBC9pJ05s3F\nBedZJzMT8TvVr1zXQpU7aNpgdmEyS+Ea/A9JHgfWc98f4U1fz65MZ76ZJrlZDelV\nf9Rs221SXZmZIw5trXCXhXe7MgSMrWDBBt/f7OZjAoGABOnKfjD3ofoJoy/ChwLU\nTLmAGSJxOZex4pxK5sQt3SI9Lfctahpy+NDIlybLl8g6brLdP2CuFxMKCZ6qk+4j\nyK69Mo15wlsjIvCzyyyp4O9tveP8WgqKSnW6kMFjxRUfMyYHnF9XBADXfYKP+QL4\n6gDsN6QkVTf4ZNin92lWUFg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "imgaccount@anjanibooks-reactjs-storage.iam.gserviceaccount.com",
+  "client_id": "114465822125182313338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imgaccount%40anjanibooks-reactjs-storage.iam.gserviceaccount.com"
+}
