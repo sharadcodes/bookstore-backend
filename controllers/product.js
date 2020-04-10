@@ -158,7 +158,7 @@ exports.updateProduct = (req, res) => {
 
 // read
 exports.getAllProducts = (req, res) => {
-  const limit = req.query.limit ? parseInt(req.query.limit) : 8;
+  const limit = req.query.limit ? parseInt(req.query.limit) : 100;
   const sortBy = req.query.sortBy ? req.query.sortBy : "_id";
   Product.find({})
     .populate("category")
