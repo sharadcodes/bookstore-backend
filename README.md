@@ -1,4 +1,4 @@
-# Dojo Bookstore Backend
+# Bookstore Backend
 
 Tech stack :
 
